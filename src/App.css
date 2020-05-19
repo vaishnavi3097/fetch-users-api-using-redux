@@ -1,0 +1,53 @@
+
+.card{
+  height:375px;
+}
+.card-body {
+  padding:25px;
+}
+    table {
+      width: 100%;
+    text-align: center;
+      border-collapse: collapse;
+      font-family: initial;
+      background-color: aliceblue;
+      border: solid;
+      margin-bottom: 25px;
+      border: solid 3px aliceblue
+  }
+
+h4{
+  font-size: 1.5rem;
+    text-align: center;
+    color: burlywood;
+    font-family: auto;
+    background-color: black;
+}
+h5 {
+  font-size: 1.25rem;
+  margin-left: 8px;
+  color: black;
+  font-family: auto;
+}
+table td{
+  text-align: center;
+  color: black;
+  font-family: initial;
+  font-size: 17px;
+}
+.col-md-6 {
+  flex: 0 0 50%;
+  max-width: 50%;
+   float: left; 
+}
+.card-header {
+  padding: .75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: rgba(0,0,0,.03);
+  border-bottom: 1px solid rgba(0,0,0,.125);
+  text-align: center;
+  font-size: 25px;
+  font-family: initial;
+  color: burlywood;
+  background-color: aliceblue;
+}
